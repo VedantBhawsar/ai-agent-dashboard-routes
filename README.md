@@ -1,5 +1,3 @@
-# ai-agent-dashboard-routes
-
 # AI Agents Dashboard API Integration
 
 This document outlines all the API routes required for integration in the AI Agents Dashboard project.
